@@ -1,0 +1,23 @@
+{
+  "name": "video",
+  "version": "0.0.1",
+  "description": "A HTML5 video player.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuintun/video.git"
+  },
+  "keywords": ["video", "player"],
+  "author": {
+    "name": "nuintun",
+    "email": "nuintun@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuintun/video/issues"
+  },
+  "homepage": "https://github.com/nuintun/video#readme",
+  "devDependencies": {
+    "rollup": "^0.53.3",
+    "uglify-es": "^3.3.5"
+  }
+}
